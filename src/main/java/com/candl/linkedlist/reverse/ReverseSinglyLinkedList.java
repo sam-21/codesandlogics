@@ -1,4 +1,6 @@
-package com.candl.linkedlist;
+package com.candl.linkedlist.reverse;
+
+import com.candl.linkedlist.SinglyLinkedList;
 
 /**
  * Program to reverse a singly linked list

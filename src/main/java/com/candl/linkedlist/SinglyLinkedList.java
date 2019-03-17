@@ -22,7 +22,7 @@ public class SinglyLinkedList {
         return string;
     }
 
-    static class Node {
+    public static class Node {
 
         public String data;
         public Node next;
